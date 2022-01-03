@@ -175,6 +175,18 @@
             "name": "Live In Milwaukee '19",
             "art": "https://f4.bcbits.com/img/a0842357012_10.jpg",
             "label": "KGLW / Various"
+        },
+        {
+            "releaseDate": "2021-10-01",
+            "name": "Live at Levitation '16",
+            "art": "https://f4.bcbits.com/img/a1539359681_10.jpg",
+            "label": "KGLW / Various"
+        },
+        {
+            "releaseDate": "2021-10-01",
+            "name": "Live at Levitation '14",
+            "art": "https://f4.bcbits.com/img/a2573238909_10.jpg",
+            "label": "KGLW / Various"
         }
     ],
     "weirdStuff": [
@@ -188,6 +200,12 @@
             "releaseDate": "2020-12-24",
             "name": "Teenage Gizzard",
             "art": "https://f4.bcbits.com/img/a1965337995_10.jpg",
+            "label": "KGLW / Various"
+        },
+        {
+            "releaseDate": "2021-10-01",
+            "name": "Butterfly 3001",
+            "art": "https://f4.bcbits.com/img/a2014601947_10.jpg",
             "label": "KGLW / Various"
         }
     ]
